@@ -1,0 +1,13 @@
+.card-date {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.card-date, .card-title {
+  text-align:center;
+  text-transform:uppercase;
+  font-weight: bold;
+}
+
+.card-date, .card-excerpt {
+  color: #777;
+}

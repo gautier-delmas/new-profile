@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@500&family=Oswald&display=swap");
+
+@import url("Components/container.css");
+@import url("Components/avatar.css");
+@import url("Components/button.css");
+@import url("Components/banner.css");
+@import url("Components/footer.css");
+@import url("Components/navbar.css");
+@import url("Components/cards.css");
+@import url("Components/forms.css");
+
+body {
+  font-family: 'Oswald&display', serif;
+  font-size: 18px;
+  margin: 0px;
+  text-align: center;
+  text-decoration-color: black;
+  color: rgba(52,89,120,9);
+}
+
+h1,h2,h3 {
+  margin-top: 0;
+  font-family: 'Lora', sans serif;
+  font-weight: lighter;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+i{
+	font-size: 48px;
+	color: rgba(0,0,0, 0.2);
+}
+
+

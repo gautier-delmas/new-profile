@@ -1,0 +1,5 @@
+.card-body {
+    text-align:center;  /*1*/
+  padding: 15px 20px; /*2*/
+  box-sizing: border-box; /*3*/
+}

@@ -1,0 +1,16 @@
+.card-image {
+  height: 250px;
+  position: relative;
+  overflow: hidden;
+}
+.card-image img {
+  width: 150%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  filter: grayscale(1);
+  transition-property: filter width;
+  transition-duration: .3s;
+  transition-timing-function: ease;
+}
